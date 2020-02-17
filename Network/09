@@ -1,0 +1,1 @@
+nslookup 42.fr 8.8.8.8 | grep Address | grep -v # | awk '{print $2}'

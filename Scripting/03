@@ -1,0 +1,1 @@
+echo 'apt get update && apt get upgrade >> /var/log/package_update_log.txt' >> ~/package_update.sh

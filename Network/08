@@ -1,0 +1,2 @@
+#whois shash16.org | grep Name Server
+NS-1236.AWSDNS-26.ORG

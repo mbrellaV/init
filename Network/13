@@ -1,0 +1,2 @@
+#do ifconfig en0 | grep "inet " | awk '{print $2}' than 
+do nslookup found ip than grep name | awk '{print $4}'
